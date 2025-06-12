@@ -21,4 +21,4 @@ A full-stack web developer focusing on **TypeScript + Vue.js** and **Java + Spri
 
 ## 📫 Contact
 - Email: `yunagi.0taka490@hotmail.com`
-- GitHub: [@t0taka-3Ne5-3gyo](https://github.com/0taka-3Ne5-3gyo)
+- GitHub: [@tyuma-ohtaka-dev](https://github.com/yuma-ohtaka-dev)
